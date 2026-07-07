@@ -20,3 +20,11 @@ An intelligent Bollywood chatbot that answers questions about **movies, actors, 
 BollywoodGPT is an AI-powered conversational assistant designed for Bollywood enthusiasts. It combines semantic search with large language models to provide accurate and context-aware answers about Bollywood movies, actors, and entertainment news.
 
 The chatbot retrieves relevant information using FAISS vector search, enriches actor information with Wikipedia, and generates natural language responses using Groq's Llama 3.3 model.
+## ✨ Features
+
+- 🎬 **Movie Recommendations** – Discover Bollywood movies based on user queries.
+- 🎭 **Actor Information** – Retrieve biographies and details using Wikipedia.
+- 📰 **Latest Bollywood News** – Stay updated with current Bollywood news.
+- 🔍 **Semantic Search** – Uses FAISS vector search for context-aware retrieval.
+- 🤖 **AI-Powered Conversations** – Generates natural responses using Groq Llama 3.3.
+- 📚 **Retrieval-Augmented Generation (RAG)** – Combines retrieved information with LLM reasoning for more accurate answers.
